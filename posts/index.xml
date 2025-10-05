@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Angelo de Alwis</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Angelo de Alwis</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog Post</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;p&gt;Welcome to my new site! This is my first post using Hugo + PaperMod.&lt;br&gt;
+I’ll be sharing my thoughts on mental health here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Second Blog Post</title>
+      <link>http://localhost:1313/posts/second/</link>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/second/</guid>
+      <description>&lt;p&gt;Welcome to my new site! This is my first post using Hugo + PaperMod.&lt;br&gt;
+I’ll be sharing my thoughts on mental health here.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Angelo de Alwis</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://angelodealwisgit.github.io/posts/</link>
     <description>Recent content in Posts on Angelo de Alwis</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://angelodealwisgit.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Blog Post</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <link>https://angelodealwisgit.github.io/posts/first/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
+      <guid>https://angelodealwisgit.github.io/posts/first/</guid>
       <description>&lt;p&gt;Welcome to my new site! This is my first post using Hugo + PaperMod.&lt;br&gt;
 I’ll be sharing my thoughts on mental health here.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Second Blog Post</title>
-      <link>http://localhost:1313/posts/second/</link>
+      <link>https://angelodealwisgit.github.io/posts/second/</link>
       <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/second/</guid>
+      <guid>https://angelodealwisgit.github.io/posts/second/</guid>
       <description>&lt;p&gt;Welcome to my new site! This is my first post using Hugo + PaperMod.&lt;br&gt;
 I’ll be sharing my thoughts on mental health here.&lt;/p&gt;</description>
     </item>
